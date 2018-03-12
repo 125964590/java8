@@ -71,6 +71,7 @@ public class StreamApi {
         Stream.of(str2.split(",")).map(User::new).forEach(System.out::println);//将String转换为UserStream并且循环调用toString方法输出
         Stream.of(str2.split(",")).map(Persion::build).forEach(System.out::println);//将String转换为PersionStream并且循环调用toString方法输出
         String str3 = "11,123,133,123";
+
         Stream.of(str3.split(",")).peek(System.out::println).mapToInt(Integer::valueOf).forEach(System.out::print);//peek 用来在执行后面的方法之前修改方法
         System.out.println(integer2);
         System.out.println(integer3);
