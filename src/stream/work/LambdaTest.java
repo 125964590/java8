@@ -14,7 +14,7 @@ import java.util.stream.Stream;
 public class LambdaTest {
     @Test
     public void test1() {
-        String str = "token=14312lk3jiojoj12oi3j&id=sldfjiowe12312&name=1293uu89&work=12lk3j2io";
+    String str = "token=14312lk3jiojoj12oi3j&id=sldfjiowe12312&name=1293uu89&work=12lk3j2io";
         Map<String, String> collect = Stream.of(str.split("&")).map(x -> x.split("=")).collect(Collectors.toMap(x -> x[0], x -> x[1]));
         System.out.println(collect);
     }
