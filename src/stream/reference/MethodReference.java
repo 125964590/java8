@@ -9,8 +9,8 @@ import java.util.function.Supplier;
  */
 public class MethodReference {
     public static void main(String[] args) {
-        Supplier<String> stringSupplier = Apple::getColor;
-        Function<String,String> stringStringFunction=Apple::getColor;
+//        Supplier<String> stringSupplier = Apple::getColor;
+//        Function<String,String> stringStringFunction=Apple::getColor;
     }
 
 
