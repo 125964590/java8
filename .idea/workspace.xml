@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c586fe9c-c308-4429-8c7f-4d0ba5e41cbd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/thriftCompiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/optional/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/optional/module/Essay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8/META-INF/java8.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8/date/LocalDateTimeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java8/date/LocalDateTimeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,7 +196,7 @@
       <workItem from="1572849698299" duration="451000" />
       <workItem from="1584603327404" duration="1705000" />
       <workItem from="1587230035162" duration="1301000" />
-      <workItem from="1611569803265" duration="615000" />
+      <workItem from="1611569803265" duration="840000" />
     </task>
     <servers />
   </component>
